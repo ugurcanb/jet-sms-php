@@ -1,5 +1,5 @@
 {
-    "name": "ugurcanb/jet-sms-php",
+    "name": "erdemkeren/jet-sms-php",
     "description": "A PHP client library for jet-sms api",
     "homepage": "https://github.com/laravel-notification-channels/jet-sms",
     "license": "MIT",
